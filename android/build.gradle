@@ -38,7 +38,7 @@ android {
             //See here: https://developer.android.com/studio/build/shrink-code#decode-stack-trace
             shrinkResources false
             minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+  //          proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
 
